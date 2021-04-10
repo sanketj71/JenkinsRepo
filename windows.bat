@@ -1,3 +1,2 @@
-D:
-cd\
-dir
+echo on
+ipconfig /all
